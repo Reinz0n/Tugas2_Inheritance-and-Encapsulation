@@ -1,1 +1,1 @@
-# Tugas2_Inheritance-and-Encapsulation
+Tugas2 Inheritance and Encapsulation
